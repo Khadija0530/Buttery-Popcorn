@@ -1,2 +1,2 @@
-# team2
- cmp280 project
+Buttery Popcorn
+ Movie theatre reviews
